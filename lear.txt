@@ -1,2 +1,2 @@
 new test
-修复BUG
+完成bug2
